@@ -51,7 +51,6 @@ L2:
 .data
 array: .word 1,1,1
 tmp:   .word 0,0,0,0,0,0,0,0,0,0 
-.ident	"GCC: (GNU MCU Eclipse RISC-V Embedded GCC, 64-bit) 8.2.0"
 ```
 -  Open a terminal under 'test' folder and compile the  RISC-V assembly program:
 ```
