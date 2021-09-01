@@ -83,6 +83,7 @@ ram_element.qip
 - Set ‘simulation/ core_vlg_tst.vt’ as test bench file
 - Compile and start simulation
 ### Check Waveform in ModelSim
+![waveform](./wave.JPG)
 
 
 
