@@ -81,8 +81,8 @@ ram_element.qip
 - Set ‘core.v’ as top level entity
 - Set ‘simulation/ core_vlg_tst.vt’ as test bench file
 - Compile and start simulation
-### Check Waveform in ModelSim
-![waveform](./wave.JPG)
+### Simulation result example
+![waveform](./wave2.JPG)
 
 
 
