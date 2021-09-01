@@ -79,7 +79,7 @@ main_memory.v
 ram_element.qip
 ```
 - Set ‘core.v’ as top level entity
-- Set ‘simulation/ core_vlg_tst.vt’ as test bench file
+- Set ‘src/core_vlg_tst.vt’ as test bench file
 - Compile and start simulation
 ### Simulation result example
 ![waveform](./wave2.JPG)
