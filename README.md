@@ -82,7 +82,7 @@ ram_element.qip
 - Set ‘test/core_vlg_tst.vt’ as test bench file
 - Compile and start simulation
 ### Simulation result example
-![waveform](./wave2.JPG)
+![waveform](./waveform.JPG)
 
 
 
