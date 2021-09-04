@@ -66,7 +66,7 @@ python .\elf2hex.py main.elf
 ```
 -  Copy this 'ram.hex' file to replace the one under 'src' folder
 ### Use Quartus to compile and simulate pipeRV32N core
-- Create a new Quartus project, setting ModelSim as simulation tool
+- Create a new Quartus project, choose device family 'Cyclone II' and set ModelSim as simulation tool
 - Import these files under ‘src’ folder to project:
 ```
 core.v
