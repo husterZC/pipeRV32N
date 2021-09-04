@@ -1,5 +1,5 @@
 # pipeRV32N
-A simple pipelined 32-bit  RISCV core with only  8  base integer registers on FPGA
+A simple pipelined 32-bit  RISCV core with only  8  base integer registers 
 ## Features
 - 4-stage RISC-V32 cpu core:
    - IF stage -- instruction fetching
